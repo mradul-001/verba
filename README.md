@@ -1,4 +1,4 @@
-![alt text](verba.png "Logo Title Text 1")
+![alt text](./assets/verba.png "Logo Title Text 1")
 
 <div style="text-align: center;">
 
