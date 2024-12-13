@@ -33,10 +33,9 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 #### Introduction to Audio data
 
 - Video Tutorial: [Introduction to audio data](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)  
-*Watch the first 6 videos of the above playlist.*
-
+(*Watch the first 6 videos of the above playlist.*)
 - Medium Articles:  
-*It is highly recommended to read and understand the content of these articles.*
+(*It is highly recommended to read and understand the content of these articles.*)
     - [Part 1](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
     - [Part 2](https://towardsdatascience.com/audio-deep-learning-made-simple-part-2-why-mel-spectrograms-perform-better-aad889a93505)  
 
@@ -45,7 +44,7 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 
 #### RNNs and LSTMs
 - Youtube videos : [here](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)  
-*Watch from video index **55** to video index **66**.*
+(*Watch from video index **55** to video index **66**.*)
 
 - For a formal presentation of the topic, read the pdf [here](./assets/rnn_tutorial.pdf).
 
