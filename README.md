@@ -1,10 +1,6 @@
 ![alt text](./assets/verba.png "Logo Title Text 1")
 
-<div style="text-align: center;">
-
 # Verba
-
-</div>
 
 This project seeks to produce a tool called Verba, which is essentially a speech to text generator. We will begin by understanding the fundamentals of Machine understanding and Deep Learning, then explore several models for handling sequential data such as audio, before moving on to our final project, Verba. The primary aims of this project are as follows:
 
@@ -16,7 +12,7 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 
 
 ## Week 1
----
+
 
 #### Introduction to NumPy
 
@@ -37,7 +33,7 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 #### Introduction to Audio data
 
 - Video Tutorial: [Introduction to audio data](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)  
-    - Watch the first 6 videos of the above playlist.
+*Watch the first 6 videos of the above playlist.*
 
 - Medium Articles:  
 *It is highly recommended to read and understand the content of these articles.*
@@ -45,7 +41,7 @@ This project seeks to produce a tool called Verba, which is essentially a speech
     - [Part 2](https://towardsdatascience.com/audio-deep-learning-made-simple-part-2-why-mel-spectrograms-perform-better-aad889a93505)  
 
 ## Week 2
----
+
 
 #### RNNs and LSTMs
 - Youtube videos : [here](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)  
