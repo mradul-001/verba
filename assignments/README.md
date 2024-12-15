@@ -4,7 +4,7 @@ The aim of this assignment is to implement concepts learnt during second week in
 
 Here are some points that might help you:
 
-1. If you are using google colab for doing this assignment (which you should), you can use the following steps to directly download the dataset from kaggle:
+1. If you are using google colab for doing this assignment (which you are advised to do), you can use the following steps to directly download the dataset from kaggle:
     - Download the dataset:  
         ```bash
         !kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
