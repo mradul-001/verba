@@ -55,4 +55,4 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 - Or you can go through the videos related to CNNs in the deep learning playlist in week 1 resources.
 
 > [!IMPORTANT]  
-> Assignment one has been released, please check it out [here](./assignments/README.md).
+> #### Assignment one has been released, please check it out [here](./assignments/README.md).
