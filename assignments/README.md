@@ -1,4 +1,5 @@
 ## Assignment - 01
+### Sentiment Analysis
 
 The aim of this assignment is to implement concepts learnt during second week in python. You need to implement a model to classify text sentiment using tensorflow. The dataset used is `IMDB Dataset of 50K Movie Reviews`. You can download the dataset from here [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). You need to submit this assignment by 22 December, 2024.  
 
