@@ -10,8 +10,8 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 
 3. **Speech-to-Text Conversion**: To develop efficient models that accurately transcribe spoken language into written text.
 
-> [!IMPORTANT]  
-> Assignment one has been released, please check it out [here](./assignments/README.md).
+> ### [!IMPORTANT]  
+> #### Assignment one has been released, please check it out [here](./assignments/README.md).
 
 ## Week 1
 
