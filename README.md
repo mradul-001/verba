@@ -10,6 +10,8 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 
 3. **Speech-to-Text Conversion**: To develop efficient models that accurately transcribe spoken language into written text.
 
+> [!IMPORTANT]  
+> <div style="font-size: 16px">Assignment one has been released, please check it out [here](./assignments/README.md).</div>
 
 ## Week 1
 
@@ -54,5 +56,3 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 
 - Or you can go through the videos related to CNNs in the deep learning playlist in week 1 resources.
 
-> [!IMPORTANT]  
-> #### Assignment one has been released, please check it out [here](./assignments/README.md).
