@@ -56,3 +56,13 @@ This project seeks to produce a tool called Verba, which is essentially a speech
 
 - Or you can go through the videos related to CNNs in the deep learning playlist in week 1 resources.
 
+
+## Week 3
+
+#### Working with audio data:
+
+This week you will be handling the actual audio data, so it is necessary to know how to preprocess audio data and how to extract useful features out of it that can be used as input for Deep Learning models.
+
+- Go through this Matplotlib tutorial, a library to create various plots in python. You will be using this to visualize various audio  [(here)](https://www.youtube.com/watch?v=OZOOLe2imFo).
+
+- Go through the guided tutorial to learn these basic techniques [(here)](https://www.kaggle.com/code/sahandissanayaka/complete-notebook-for-audio-preprocessing).
