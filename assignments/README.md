@@ -21,3 +21,19 @@ Here are some points that might help you:
     - Preprocess the data.
     - Tokenize the movie reviews.
     - Make and train the model that gives best results.
+
+
+## Assignment - 02
+### Mini Speech Recognition
+
+The aim of this assignment is to comvert short spoken commands to text. The dataset you need to use can be downloaded from [here](http://storage.googleapis.com/download.tensorflow.org/data/mini_speech_commands.zip).  
+
+1. To download the dataset directly in the google colab, you can use `wget` library. Run the following command to install it in google colab:  
+
+        ```python
+        !pip install wget
+
+2. Consider using `glob` library for loading the dataset. Run the following command to install it in google colab:
+
+```python
+!pip install glob
