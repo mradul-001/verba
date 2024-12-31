@@ -66,3 +66,5 @@ This week you will be handling the actual audio data, so it is necessary to know
 - Go through this Matplotlib tutorial, a library to create various plots in python. You will be using this to visualize various audio  [(here)](https://www.youtube.com/watch?v=OZOOLe2imFo).
 
 - Go through the guided tutorial to learn these basic techniques [(here)](https://www.kaggle.com/code/sahandissanayaka/complete-notebook-for-audio-preprocessing).
+
+- Medium article: [here](https://medium.com/coderhack-com/introduction-to-librosa-912c2c109f41)
