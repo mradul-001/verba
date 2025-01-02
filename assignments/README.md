@@ -1,3 +1,24 @@
+# Verba
+
+In this final project, we’ll use **Wav2Vec2.0** to convert audio to text. Instead of building a model from scratch and training it on a large dataset, which takes a lot of time and resources, Wav2Vec2.0 offers a quicker and easier solution. It’s already trained on a huge amount of audio data, so we can use it right away for accurate results without needing to worry about the complicated details.
+
+- ### Transformers
+
+    Transformers are deep learning models designed for processing sequential data, such as text, audio, or time-series, using a mechanism called **self-attention**. Unlike traditional RNNs, transformers process entire sequences in parallel, making them highly efficient and scalable. The architecture consists of an **encoder-decoder structure** where the encoder focuses on understanding input relationships, and the decoder generates the output.
+
+    To dive deep into transformers, check out this [YouTube playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn). Focus on videos 68 to 73 (skip 70) for detailed explanation.
+
+
+- ### Wav2Vec 2.0
+
+    Wav2Vec2.0 is a transformer-based model designed for speech-to-text tasks. It processes raw audio waveforms directly, eliminating the need for manual feature extraction like MFCCs. The model is pre-trained on unlabeled audio using a contrastive learning objective to learn speech representations, then fine-tuned on labeled audio-text pairs for transcription.
+
+    For a detailed understanding of the architecture of Wav2Vec2.0, refer to this article: **[An Illustrated Tour of Wav2vec 2.0](https://jonathanbgn.com/2021/09/30/illustrated-wav2vec-2.html)**
+
+---
+---
+
+
 ## Assignment - 01
 ### Sentiment Analysis
 
