@@ -1,6 +1,6 @@
 # Verba
 
-In this final project, we’ll use **Wav2Vec2.0** to convert audio to text. Instead of building a model from scratch and training it on a large dataset, which takes a lot of time and resources, Wav2Vec2.0 offers a quicker and easier solution. It’s already trained on a huge amount of audio data, so we can use it right away for accurate results without needing to worry about the complicated details.
+In this final project, we’ll use **Wav2Vec2.0** to get transcripts of audio files. Instead of building a model from scratch and training it on a large dataset, which takes a lot of time and resources, Wav2Vec2.0 offers a quicker and easier solution. It’s already trained on a huge amount of audio data, so we can use it right away for accurate results without needing to worry about the complicated details.
 
 - ### Transformers
 
