@@ -16,7 +16,6 @@ In this final project, we’ll use **Wav2Vec2.0** to convert audio to text. Inst
     For a detailed understanding of the architecture of Wav2Vec2.0, refer to this article: **[An Illustrated Tour of Wav2vec 2.0](https://jonathanbgn.com/2021/09/30/illustrated-wav2vec-2.html)**
 
 ---
----
 
 
 ## Assignment - 01
