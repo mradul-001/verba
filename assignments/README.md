@@ -22,16 +22,16 @@ Here is a brief overview of what exactly you are required to do:
 
 2. Make instances of the **Wav2Vec** model and **Wav2Vec2Tokenizer** tokenizer.
 
-3. **Audio Preprocessing**: 
+3. Audio Preprocessing: 
     - Load the audio files.
     - Resample them to a sample rate of 16000 (this specific sr is required by Wav2Vec model).
     - Normalize the audio.
         > There are some reasons we are normalizing the audio file:  
         > - Wav2Vec2.0 is trained on audio data that is normalized. Feeding unnormalized audio may lead to poor results.
         > - Raw audios can have amplitudes exceeding the maximum allowable range. This could lead to distortion during processing.
-    - Tokenize the audios.
-    - Make predictions.
-    - Decode predictions to get the transcripts.
+4. Tokenize the audios.
+5. Make predictions.
+6. Decode predictions to get the transcripts.
 
 > There is no need to fine tune the model. After following these steps, you should get nice results.
 
