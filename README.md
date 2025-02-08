@@ -68,3 +68,6 @@ This week you will be handling the actual audio data, so it is necessary to know
 - Go through the guided tutorial to learn these basic techniques [(here)](https://www.kaggle.com/code/sahandissanayaka/complete-notebook-for-audio-preprocessing).
 
 - Medium article: [here](https://medium.com/coderhack-com/introduction-to-librosa-912c2c109f41)
+
+## Week 4
+Final project released, check [here](./assignments/README.md)
